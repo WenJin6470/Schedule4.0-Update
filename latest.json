@@ -3,8 +3,8 @@
   "notes": "首个通过 GitHub 自动更新仓库发布的版本：新增软件更新页面与启动自动检查，重构资源路径支持打包环境。",
   "full": {
     "url": "updates/4.1.0/update-4.1.0-full.zip",
-    "sha256": "002237dc5cfa72c730798b021010c96eed7bcb244825b16845af9e817aa8e692",
-    "size": 33632442
+    "sha256": "1a906c049ae01d2cbe9a340c80ce6b4ccd7dc2d83974a8dfd55e5c06f7445bcb",
+    "size": 33633126
   },
   "delta": null,
   "files": [
@@ -190,8 +190,8 @@
     },
     {
       "path": "main.exe",
-      "sha256": "d8247f767a1fbf2100bacec0098d607c2a1b560293dbdaa35d7571b0b8b6c998",
-      "size": 10670592
+      "sha256": "43edce854a116203588f1c715238e7d953abf617b10d5d688816b876e24d270f",
+      "size": 10672640
     },
     {
       "path": "msvcp140.dll",
