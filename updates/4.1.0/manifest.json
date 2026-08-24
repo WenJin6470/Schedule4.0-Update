@@ -1,0 +1,307 @@
+{
+  "version": "4.1.0",
+  "notes": "首个通过 GitHub 自动更新仓库发布的版本：新增软件更新页面与启动自动检查，重构资源路径支持打包环境。",
+  "full": {
+    "url": "updates/4.1.0/update-4.1.0-full.zip",
+    "sha256": "002237dc5cfa72c730798b021010c96eed7bcb244825b16845af9e817aa8e692",
+    "size": 33632442
+  },
+  "delta": null,
+  "files": [
+    {
+      "path": "PySide6/QtCore.pyd",
+      "sha256": "be52341a5df1f76ecca2fb1e94eb429dfa46f0b659ed6536f25119b565b21ea8",
+      "size": 3330360
+    },
+    {
+      "path": "PySide6/QtGui.pyd",
+      "sha256": "f0549716b10a8b4fbd5c6c041f36af215223809f919f4c4722d44cc199d5c593",
+      "size": 3896632
+    },
+    {
+      "path": "PySide6/QtNetwork.pyd",
+      "sha256": "3953a86c9545ad8fa1cf1dec27085dd357838464cd6e2131c9963caad6234b67",
+      "size": 1007416
+    },
+    {
+      "path": "PySide6/QtWidgets.pyd",
+      "sha256": "85cb6c2181b4b09887a7d8507dd950844d1b8f74a9c4002c7b71169f75bf6fda",
+      "size": 4856120
+    },
+    {
+      "path": "PySide6/qt-plugins/iconengines/qsvgicon.dll",
+      "sha256": "dd60826f1959faa7ea137e00959717450da9f2e0c151054daeff1e9d1226fab2",
+      "size": 72504
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qgif.dll",
+      "sha256": "8b8dea2abaed333f1fbbdf3c8867ceb6040722c88a1fb81ea451f8b8bc9e8ee0",
+      "size": 47928
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qicns.dll",
+      "sha256": "6a5aed435989d54234c16581e66f6a59137bfccd180565a217a8676bcda6dc8d",
+      "size": 55608
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qico.dll",
+      "sha256": "f81378dd51392ff0d3ae094d5e59dfc4fa664a0ef4d756d6ed40584f90af2758",
+      "size": 45880
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qjpeg.dll",
+      "sha256": "97af9ceaf3ebefefeb7aede27ae07b73ae1d2ed479427beebf61c58654361d43",
+      "size": 577848
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qpdf.dll",
+      "sha256": "273a1b6daaf3c0def92902044cf35d0ec65e56f904acb7fbf428d80dae2bb9d5",
+      "size": 42296
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qsvg.dll",
+      "sha256": "d4100055c3a4d6c1bca5e303e3d2049bde54d4e916442ee0a3e9b4dfa7d416fc",
+      "size": 39224
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qtga.dll",
+      "sha256": "50f0e6ff9b7fca9386ccad52eb5e83466774e6282c9532b03b11e5a64951dffb",
+      "size": 38200
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qtiff.dll",
+      "sha256": "087a3425962e838c35c9073bdf8de13712466e9b9590717666af7839db068dba",
+      "size": 441656
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qwbmp.dll",
+      "sha256": "28a6447d44169acbf2eab38c475dc0aa9e32abb3f29f72257726497353b9bf63",
+      "size": 36664
+    },
+    {
+      "path": "PySide6/qt-plugins/imageformats/qwebp.dll",
+      "sha256": "3e2bf546a3885cbe3e2b64058b1c58377d3c8822f51b37ba967f61e8054d7719",
+      "size": 562488
+    },
+    {
+      "path": "PySide6/qt-plugins/platforms/qdirect2d.dll",
+      "sha256": "f099af483b0d71a6a028bc15ad98a407e4c820400e6626cdc8e66b5f5e4cfed2",
+      "size": 1088824
+    },
+    {
+      "path": "PySide6/qt-plugins/platforms/qminimal.dll",
+      "sha256": "97d81b9ee7cbbeb68e46eefce24d4b929b7a24cc646cebe3d4d03e2734f97935",
+      "size": 61752
+    },
+    {
+      "path": "PySide6/qt-plugins/platforms/qoffscreen.dll",
+      "sha256": "426266e8ba0ea07c416616ad9973702fe126d4559cb2ee11e1c9bdbae85ba755",
+      "size": 113976
+    },
+    {
+      "path": "PySide6/qt-plugins/platforms/qwindows.dll",
+      "sha256": "54d736de022f707e9f7f555e4c9f9e993253cd5b0ee2364e6a9458c180828c42",
+      "size": 1006904
+    },
+    {
+      "path": "PySide6/qt-plugins/styles/qmodernwindowsstyle.dll",
+      "sha256": "9af96b09ebaf7ff13e22c70bf69b9c3f226f069375d1a9f9efd63e944e43f5fb",
+      "size": 230712
+    },
+    {
+      "path": "PySide6/qt-plugins/tls/qcertonlybackend.dll",
+      "sha256": "45b9f59593a1567f7d6725ddfa53f667f8f26b7795b1e2d0e1080a4025bafc02",
+      "size": 103736
+    },
+    {
+      "path": "PySide6/qt-plugins/tls/qopensslbackend.dll",
+      "sha256": "c7222880a7defe7a5c84f5871cdc7e34df22f3de6646026683042fab5c22b561",
+      "size": 319288
+    },
+    {
+      "path": "PySide6/qt-plugins/tls/qschannelbackend.dll",
+      "sha256": "d09487a64be0e1d4545a8230e7fe05d163375610adf175407a6742944f16deb9",
+      "size": 263992
+    },
+    {
+      "path": "_bz2.pyd",
+      "sha256": "d28c3dd1c22bfb8a6e8a6a9c2359842b797d08e878ecb7805f60e86a45589d11",
+      "size": 87776
+    },
+    {
+      "path": "_ctypes.pyd",
+      "sha256": "25d9b0be550d428fecc697ca20450343a7c3ce77c9f5283e9aecfd188d609250",
+      "size": 142560
+    },
+    {
+      "path": "_decimal.pyd",
+      "sha256": "8d41a84db20a9b985e98c802ad6833cf9625c744ad35478dd346f54f81488706",
+      "size": 290528
+    },
+    {
+      "path": "_hashlib.pyd",
+      "sha256": "36ce760b9fac53fe51755f30a68d86f5fde89bf1b66c65c19e04aa3afa404ac2",
+      "size": 69344
+    },
+    {
+      "path": "_lzma.pyd",
+      "sha256": "5f7003f9f0256e36351ca2810b3485db28579b08e4d1d65f6f211fcd1136f395",
+      "size": 160992
+    },
+    {
+      "path": "_queue.pyd",
+      "sha256": "bb53357b4e91ac23ed4061f15ff3e5e91a5b3be1cbb0c6cf294521ae5b4efa1c",
+      "size": 36576
+    },
+    {
+      "path": "_socket.pyd",
+      "sha256": "25ac83cac32ed0d67b2cc9672ce64cb53f0a29a75b14c276e901023ff43da5f9",
+      "size": 87776
+    },
+    {
+      "path": "_ssl.pyd",
+      "sha256": "5c07572df2913618cfb851b608cb5f74d740fcce5c3f2e63dc0a2ba39ab35dad",
+      "size": 190688
+    },
+    {
+      "path": "_wmi.pyd",
+      "sha256": "0ab1fbcf18c95d70343012feb1aad61e1ba95aaed5b4a08e57fc5990e8a9a452",
+      "size": 40160
+    },
+    {
+      "path": "_zstd.pyd",
+      "sha256": "262aea62a994920daf152a10bdc0ca83a8b1c0874e71db23734862431de182c6",
+      "size": 503520
+    },
+    {
+      "path": "libcrypto-3.dll",
+      "sha256": "53c529145339fb042a3dcd3a09c2d7753204f8b4fc79d99e0d31e69a33985958",
+      "size": 6242552
+    },
+    {
+      "path": "libffi-8.dll",
+      "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
+      "size": 39696
+    },
+    {
+      "path": "libssl-3.dll",
+      "sha256": "b17a87979862d19241edc4318f967e24c3ec356ed6c2368f561179fab2311001",
+      "size": 1329912
+    },
+    {
+      "path": "main.exe",
+      "sha256": "d8247f767a1fbf2100bacec0098d607c2a1b560293dbdaa35d7571b0b8b6c998",
+      "size": 10670592
+    },
+    {
+      "path": "msvcp140.dll",
+      "sha256": "a030dc2dfd2eca28a9375c92989adf4daf161f988db5e16b9e10678eb0dff4c7",
+      "size": 573008
+    },
+    {
+      "path": "msvcp140_1.dll",
+      "sha256": "edfbcb2ced712f23842525cb076ee2c09cc7b811a389cf37922d04ef1985e10f",
+      "size": 35920
+    },
+    {
+      "path": "msvcp140_2.dll",
+      "sha256": "f3117e3445945a872a35e91371e2a6c9f7b3fa5e74e5985f6ab12ac101b280fe",
+      "size": 268264
+    },
+    {
+      "path": "pyside6.abi3.dll",
+      "sha256": "d4072be872b31f3748de5e6c28cb2976dafbf063d3ccfa38e5dabda29babcdaf",
+      "size": 248632
+    },
+    {
+      "path": "python3.dll",
+      "sha256": "22c6e46d8bd563cdb072650901461ef68be2ea6cb1e80af859559d9395a27e39",
+      "size": 73952
+    },
+    {
+      "path": "python314.dll",
+      "sha256": "fde89cdb5c2d08ae65de7ef4abca1876c93ba3796002f5ac0bf7e4d4f5a94da0",
+      "size": 6778592
+    },
+    {
+      "path": "qt6core.dll",
+      "sha256": "65fe6224b6c47a15b058738031d31dce9928c4d7a58e1b8db6434f6f5cddd702",
+      "size": 10480440
+    },
+    {
+      "path": "qt6gui.dll",
+      "sha256": "cd071161ad325ff2de92b0e33d71334ef20712544796949623ce92dfb3957e90",
+      "size": 9589560
+    },
+    {
+      "path": "qt6network.dll",
+      "sha256": "dfd0dd852274a5fe9b3c7d2dd9fffe7e2117d28c10fc862174d6675d42395177",
+      "size": 1771320
+    },
+    {
+      "path": "qt6pdf.dll",
+      "sha256": "cf8ae19cf5f98db4a3ae332fbe6bd00bc4cdf5ca5779f88b2071cf8180610106",
+      "size": 4611384
+    },
+    {
+      "path": "qt6svg.dll",
+      "sha256": "a7352e8062d02e2108e37db4050fb3315d3c03c7d36acdc24b98b9a6c129c1de",
+      "size": 642360
+    },
+    {
+      "path": "qt6widgets.dll",
+      "sha256": "5a9f37dedd3dc5bcc1a4bb8ea919c49fc62df751a1450accc34379eb6710eab6",
+      "size": 6594360
+    },
+    {
+      "path": "select.pyd",
+      "sha256": "fab1b4cee101359d82d72061b83cff1855337b3677b9fe01cd69f7548f4c496e",
+      "size": 33504
+    },
+    {
+      "path": "shiboken6.abi3.dll",
+      "sha256": "47f4f9b44c95037565dd14f4be04f350f20c53c05483b750e0be867c39a7441e",
+      "size": 384824
+    },
+    {
+      "path": "shiboken6/Shiboken.pyd",
+      "sha256": "0e2c5318c5ac60a016a12230bbb1f6a9d990c45cbf4a7c4af24aefb5ab7dc40a",
+      "size": 33080
+    },
+    {
+      "path": "shiboken6/msvcp140.dll",
+      "sha256": "005f2324c7ff79bbe9a44992b0708abb4c871bd24bcc7a34aca5eab4439c1f4a",
+      "size": 549176
+    },
+    {
+      "path": "shiboken6/msvcp140_1.dll",
+      "sha256": "d878d7cb27187247a3ce1adfdf1f9b7b703e4429bc55f3e95284a43e80c10151",
+      "size": 27448
+    },
+    {
+      "path": "shiboken6/msvcp140_2.dll",
+      "sha256": "c0ab58670a2cebaad8e7ef1f57d8f684a43bdf1c39d20a032088425905802655",
+      "size": 271672
+    },
+    {
+      "path": "shiboken6/msvcp140_codecvt_ids.dll",
+      "sha256": "4e9bb9d03409f58dfd07e818c5c0735f24e07407d22858fd893452320de329bd",
+      "size": 23352
+    },
+    {
+      "path": "unicodedata.pyd",
+      "sha256": "0d4f124b2d6622d276d777f7106972219f9b310edb5df8149c253da7c013d6d8",
+      "size": 759008
+    },
+    {
+      "path": "vcruntime140.dll",
+      "sha256": "052ad6a20d375957e82aa6a3c441ea548d89be0981516ca7eb306e063d5027f4",
+      "size": 120400
+    },
+    {
+      "path": "vcruntime140_1.dll",
+      "sha256": "6a99bc0128e0c7d6cbbf615fcc26909565e17d4ca3451b97f8987f9c6acbc6c8",
+      "size": 49776
+    }
+  ]
+}
